@@ -7,15 +7,9 @@ B. E. Information Sciences
   - **Collaborate on:** &nbsp;Variety of data science projects!
 ---
 ### Languages
-C++, Python, C, FORTRAN, R, MATLAB
+ Python, Java
 ### Libraries
-OpenMP, Eigen, Cython, pybind11, Numpy, Matplotlib, Seaborn
+ Numpy, Matplotlib, Seaborn
 <!--  - **OS:** Linux -->
-### Softwares:
-  - OpenFOAM, Gmsh, FEniCS
----
-### Currently Learning:
-  - GPU programming for running accelerated codes
-  - CMake for making better build systems.
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErinSam&theme=dark&layout=compact) -->
